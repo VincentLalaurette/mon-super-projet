@@ -13,3 +13,12 @@
     overflow: auto;
     text-align: center;
 }
+
+#top-banner3{
+    color: rgb(255.255.255);
+    font-size: 30px;
+    background-color: rgba(30,30,30,0.7);
+    overflow: auto;
+    text-align: center;
+}
+
